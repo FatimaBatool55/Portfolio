@@ -36,8 +36,3 @@ Whenever changes are pushed to the GitHub repository, Vercel can automatically b
 
 The project is primarily built around the main HTML file along with the required styling and assets used by the website.
 
-## Author
-
-Fatima Batool
-
-AI Engineer
