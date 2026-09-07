@@ -2,6 +2,8 @@
 
 A modern personal portfolio website designed and developed to showcase my professional work as an AI Engineer.
 
+Live Link: https://portfolio-three-gamma-g9b215fidu.vercel.app/
+
 ## About The Project
 
 This portfolio was built from scratch with a focus on a modern, minimal, and interactive user experience. The design uses a dark visual theme, responsive layouts, custom animations, hover effects, and smooth scrolling to create a polished portfolio experience.
