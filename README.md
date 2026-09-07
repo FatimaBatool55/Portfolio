@@ -1,4 +1,4 @@
-# Fatima Batool | AI Engineer Portfolio
+# Fatima Batool AI Engineer Portfolio
 
 A modern personal portfolio website designed and developed to showcase my professional work as an AI Engineer.
 
